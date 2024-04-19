@@ -1,0 +1,56 @@
+.logo {
+    width: 100px;
+}
+
+#navbarNav{
+    font-family: fantasy;
+    font-size: large;
+    max-width: 1500px;
+    min-width: 100px;
+    display: flex;
+
+}
+.imagen-1{
+    width: 1650px;
+    height: 650px;
+}
+
+.imagen-2{
+    width: 1650px;
+    height: 650px;
+}
+
+.imagen-3{
+    width: 1650px;
+    height: 650px;
+}
+
+.row{
+    padding-top: 30px;
+}
+
+
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration-line: none;
+    color: aliceblue;
+}
+
+a:hover{
+    color: black;
+    transition: 0.2s;
+}
+
+ul li{
+
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+ul{
+    display: inline-block;
+}
